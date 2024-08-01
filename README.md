@@ -4,7 +4,7 @@
 
 Diese App basiert auf dem "Open-Source-Framework" Dash und einem auf der Open-Data-Platform des Kantons St. Gallen verfügbaren Datensatz. Es handelt sich um eine App mit 3 Seiten, die sukzessiv einen detaillierteren Blick auf die Daten liefert. 
 Zu Beginn gab es nur Daten zur Gesamtmenge, mittlerweile wurden viele Glascontainer mit Sensoren ausgestattet.
-![Glasabfall](Glasabfallt_gh.png)
+![Glasabfall](Glasabfall_gh.png)
 
 ---
 
@@ -16,8 +16,8 @@ Written on top of Flask, Plotly.js, and React.js, Dash is ideal for building dat
 ---
 
 ### Datensatz: Strassenverkehrsunfallorte
-[Datenquelle](https://daten.sg.ch/explore/embed/dataset/strassenverkehrsunfallorte/table/?disjunctive.accidenttype_de&disjunctive.accidentseveritycategory_de&disjunctive.roadtype_de&disjunctive.cantoncode&disjunctive.municipalitycode&disjunctive.gem_name&disjunctive.accidentyear&disjunctive.accidentmonth_de&disjunctive.accidentweekday_de&disjunctive.accidenthour)
+[Datenquelle](https://daten.sg.ch/explore/dataset/entsorgungsstatistik-stadt-stgallen%40stadt-stgallen/information/?disjunctive.abfallfraktion&disjunctive.unterkategorie&disjunctive.entsorgungsart&disjunctive.abfuhrgebiet&disjunctive.deponie_anlieferung)
 
 
-### Info des Herausgebers: (xxx)
-Der Datensatz der Strassenverkehrsunfallorte beschreibt die anonymisierten, lokalisierten Einzeldaten von Strassenverkehrsunfällen. Verfügbar sind Angaben zur Art und Schwere des Unfalls, dem Unfallzeitpunkt und dem Ort und der Strassenart des Unfalls. Die Strassenverkehrsunfallorte sind ab dem Statistik Jahr 2011 schweizweit im vorliegenden Modell verfügbar.
+### Info des Herausgebers: (Entsorgung St.Gallen (esg))
+Die Stadt St.Gallen stellt ihre Entsorgungsstatistik als Open Data zur Verfügung. In diesem Datensatz enthalten sind die Mengen der verschiedenen Abfallfraktionen Kehrricht, Karton, Papier, Glas, Dosen / Alu, Altmetall, Sonderabfall und Altöl, falls vorhanden aufgeteilt nach Unterkategorie, Entsorgungsart (Strassensammlung/Annahmestelle) und Abfuhrgebiet.
