@@ -4,6 +4,9 @@
 
 Diese App basiert auf dem "Open-Source-Framework" Dash und einem auf der Open-Data-Platform des Kantons St. Gallen verfügbaren Datensatz. Es handelt sich um eine App mit 3 Seiten, die sukzessiv einen detaillierteren Blick auf die Daten liefert. 
 Zu Beginn gab es nur Daten zur Gesamtmenge, mittlerweile wurden viele Glascontainer mit Sensoren ausgestattet.
+
+---
+
 ![Glasabfall](Glasabfall_gh.png)
 
 ---
@@ -15,7 +18,7 @@ Written on top of Flask, Plotly.js, and React.js, Dash is ideal for building dat
 
 ---
 
-### Datensatz: Strassenverkehrsunfallorte
+### Datensatz: Entsorgungsstatistik Stadt St.Gallen
 [Datenquelle](https://daten.sg.ch/explore/dataset/entsorgungsstatistik-stadt-stgallen%40stadt-stgallen/information/?disjunctive.abfallfraktion&disjunctive.unterkategorie&disjunctive.entsorgungsart&disjunctive.abfuhrgebiet&disjunctive.deponie_anlieferung)
 
 
